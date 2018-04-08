@@ -1,0 +1,33 @@
+/*general*/
+body {
+    margin: 0;
+    font-family: 'Lato', 'sans-serif';
+}
+
+/*navigation*/
+nav#menu {
+    background-color: #222;
+    text-align: center;
+}
+
+nav#menu > ul {
+    display: inline-block;
+    margin: 0px;
+    padding: 25px;
+    
+}
+
+nav#menu > ul > li {
+    display: inline-block;
+}
+
+nav#menu > ul > li > a {
+    color: white;
+    text-decoration: none;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* header */
+
+header#header >  
